@@ -1,0 +1,5 @@
+#bagaskoro meyca dwiyananda putra
+
+I learn how to use terminal to edit move and create file and folder.
+I also learn about how to push and pull from github using terminal
+
